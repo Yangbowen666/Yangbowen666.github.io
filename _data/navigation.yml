@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "科学研究"
     url: /categories/
-  - title: "Tags"
+  - title: "学术服务"
     url: /tags/
   - title: "About"
     url: /about/
