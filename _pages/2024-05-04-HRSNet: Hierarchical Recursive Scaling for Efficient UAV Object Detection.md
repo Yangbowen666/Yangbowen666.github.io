@@ -1,0 +1,22 @@
+---
+title: "HRSNet: Hierarchical Recursive Scaling for Efficient UAV Object Detection
+"
+categories: [Research]
+tags: [Deep Learning, Computer Vision]
+layout: single
+author_profile: true
+toc: true
+toc_sticky: true
+---
+
+## 📄 摘要
+这篇论文提出了……
+
+## 🖼 学术海报
+![学术海报](/assets/poster.png)
+
+[点击下载学术海报 (PDF)](/assets/poster.pdf)
+
+## 📕 论文原文
+[点击下载论文 PDF](/assets/paper.pdf)
+
